@@ -1,4 +1,4 @@
-[!MasterHead](https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz)](https://www.linkedin.com/in/emran-hossain-83b89224b/)
+[![MasterHead](https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz)](https://www.linkedin.com/in/emran-hossain-83b89224b/)
 <h1 align="center">Hi 👋, I'm Emran Hossain</h1>
 <h3 align="center">A passionate Frontend Web Developer & Designer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/javascript-visualized-the-javascript-engine--613756255456789629/"
